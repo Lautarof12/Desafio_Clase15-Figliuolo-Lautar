@@ -1,0 +1,7 @@
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\bin\Debug\Ejercicio 1- Electrodomesticos.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\bin\Debug\Ejercicio 1- Electrodomesticos.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\bin\Debug\Ejercicio 1- Electrodomesticos.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\obj\Debug\Ejercicio 1- Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\obj\Debug\Ejercicio 1- Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\obj\Debug\Ejercicio 1- Electrodomesticos.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 15\Ejercicio 1- Electrodomesticos\obj\Debug\Ejercicio 1- Electrodomesticos.pdb
